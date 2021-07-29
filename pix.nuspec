@@ -3,6 +3,7 @@
   <metadata>
     <id>pix</id>
     <version>2107.01</version>
+    <iconUrl>https://github.com/DziubanMaciej/chocolatey-package-pix/blob/master/icon.png</iconUrl>
     <title>PIX on Windows</title>
     <authors>Microsoft</authors>
     <projectUrl>https://devblogs.microsoft.com/pix/download/</projectUrl>
