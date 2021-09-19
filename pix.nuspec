@@ -3,7 +3,7 @@
   <metadata>
     <id>pix</id>
     <version>2107.01</version>
-    <iconUrl>https://raw.githubusercontent.com/DziubanMaciej/chocolatey-package-pix/master/icon.png</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/DziubanMaciej/chocolatey-package-pix/0214fb0bc9615db2d7c64b1c2f09610ecf2dd125/icon.png</iconUrl>
     <licenseUrl>https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/Microsoft_Pix_EULA_20160621.pdf?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Flegal%2Fmicrosoft_pix_eula_20160621.htm</licenseUrl>
     <packageSourceUrl>https://github.com/DziubanMaciej/chocolatey-package-pix</packageSourceUrl>
     <releaseNotes>https://devblogs.microsoft.com/pix/download/</releaseNotes>
